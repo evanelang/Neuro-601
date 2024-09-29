@@ -8,6 +8,7 @@ For neuromorphic researchers, who want to study how to implement and research ne
 
 ## User Stories
 User Story #1:
+
 The Card:
   As a machine learning researcher, I want to utilize neuromorphic computing architectures for processing data, so that I can improve energy efficiency and performance.
   

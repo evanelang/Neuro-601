@@ -16,16 +16,23 @@ The Card:
 The Conversation:
   
   The development team discusses details with the machine learning researcher like:
+  
     1.) What kind of data will be processed?
+    
     2.) How much data does the researcher want to process at once?
+    
     3.) How much energy efficiency improvement is expected?
 
 The Confirmation:
   
   If the team can have:
+  
     1.) The product demonstrates a reduction in energy consumption.
+    
     2.) The product can process a lot of data efficiently.
+    
     3.) The product can process a wide variety of different types of data.
+    
   then the user story is complete.
   
 ## Citations

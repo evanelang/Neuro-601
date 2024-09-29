@@ -36,3 +36,4 @@ The Confirmation:
   then the user story is complete.
   
 ## Citations
+[1] Rathi, N., Chakraborty, I., Kosta, A., Sengupta, A., Ankit, A., Panda, P., Roy, K., Nitin RathiSchool of Electrical and Computer Engineering, P. U., Indranil ChakrabortySchool of Electrical and Computer Engineering, P. U., Adarsh KostaSchool of Electrical and Computer Engineering, P. U., Abhronil SenguptaSchool of Electrical Engineering and Computer Science, P. S. U., Aayush AnkitSchool of Electrical and Computer Engineering, P. U., Priyadarshini PandaElectrical Engineering, Y. U., & Kaushik RoySchool of Electrical and Computer Engineering, P. U. (2023, March 2). Exploring neuromorphic computing based on spiking neural networks: Algorithms to hardware. ACM Computing Surveys. https://dl.acm.org/doi/full/10.1145/3571155#sec-1 

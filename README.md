@@ -7,7 +7,7 @@ A simulated neuromorphic processor on low cost consumer grade FPGA hardware for 
 For neuromorphic researchers, who want to study how to implement and research new neuromorphic algorithms.  The NeuroFPGA is a neuromorphic piece of hardware that allows a lower barrier for entry than using an enterprise hardware unlike Intel’s Loihi, IBM TrueNorth and spikeNNar. Our product is implemented on a standard FPGA which is cheaper and more easily obtainable.
 
 ## User Stories
-User Story #1: neuromorphic computing researcher
+### User Story #1: neuromorphic computing researcher
 
 The Card:
   
@@ -35,7 +35,7 @@ The Confirmation:
     
 
 
-User Story #2: Bio-Computer Interfacing researcher
+### User Story #2: Bio-Computer Interfacing researcher
 
 The Card:
   
@@ -68,6 +68,39 @@ The Confirmation:
     4.)	The test FPGA system adapts to test user neural signals over time.
 
     5.)	A full test suite of complex neural inputs can properly be received, attempted, and reported on to the user.
+
+### User Story #3: Neuromorphic Computing Researcher
+
+The Card:
+  I want to develop new algorithms that mimic human brain learning processes on neuromorphic hardware, so as to achieve more efficient, scalable, and adaptive AI models for complex problem-solving tasks, while utilising less power for the same amount of compute power.
+
+The Conversation:
+
+    1.)	What kind of brain-inspired learning mechanisms will be researched (e.g., spike-timing dependent plasticity, Hebbian learning)?
+    
+    2.) Which neuromorphic hardware platforms will be used (e.g., Intel Loihi, IBM TrueNorth)?
+    
+    3.) What types of problems or applications are targeted for improvement (e.g., robotics, real-time decision-making)?
+    
+    4.) What are the performance metrics (e.g., learning speed, energy efficiency, adaptability)?
+    
+    5.) How will the new algorithms be tested and validated against traditional neural network approaches?
+
+The Confirmation:
+
+The user story is considered complete when:
+
+    1.)	New learning algorithms are successfully developed and implemented on neuromorphic hardware.
+  
+    2.)	The algorithms achieve a 20% improvement in learning speed and adaptability compared to conventional neural networks.
+    
+    3.) The neuromorphic system demonstrates significantly lower energy consumption (by at least 30%) during the learning process.
+    
+    4.) The developed algorithms scale efficiently across multiple problem domains (e.g., robotics, vision systems, natural language processing).
+    
+    5.) Research papers or findings are published showcasing the benefits and scalability of the new algorithms on neuromorphic platforms.
+
+
 
   
 ## Citations
